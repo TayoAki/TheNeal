@@ -87,3 +87,11 @@ canvas {
   text-decoration: underline;
 }
 
+.bg-image {
+}
+
+.overlay {
+  background: url("../../assets/img/Atlanta.jpg") center center no-repeat;
+  background-size:cover;
+}
+
